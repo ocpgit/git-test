@@ -8,3 +8,4 @@ edit from github on demo branch
 2nd edit from github on demo branch for git pull test
 
 edit from local git for git pull test - conflict
+3rd edit from github on demo branch for git pull test - conflict
