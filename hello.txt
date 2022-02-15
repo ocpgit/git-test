@@ -6,3 +6,5 @@ add this line for test git diff
 edit from github on demo branch
 
 2nd edit from github on demo branch for git pull test
+
+3rd edit from github on demo branch for git pull test - conflict
