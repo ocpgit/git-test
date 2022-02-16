@@ -1,3 +1,6 @@
 hello git
 
 add this line for test git diff
+
+
+add this line from local dev branch for git pull conflict test!
